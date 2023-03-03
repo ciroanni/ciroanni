@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ciroanni
+- 📚 Graduated in Computer Engineer
+- 👾 Interested in Computer Graphics
 - 📫 How to reach me: annicchiaricociro09@icloud.com
 
 <!---
